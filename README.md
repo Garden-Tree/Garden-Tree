@@ -5,7 +5,7 @@
 **「ハードウェアからインフラの裏側まで。技術と人を繋ぎ、『生きたシステム』を実装する。」**
 をモットーに、特定の領域に縛られず、目の前の課題を解決するために最適な技術を選び、形にすることを大切にしています。
 
-👉 **これまでの開発プロジェクトや経歴、受賞歴については [ポートフォリオサイト](https://gardentree-portfolio-garden-trees-projects.vercel.app/) をご覧ください！**
+👉 **これまでの開発プロジェクトや経歴、受賞歴については [ポートフォリオサイト](https://my-portfolio-woad-delta-oqmxu7s94u.vercel.app/) をご覧ください！**
 
 ## 🛠 Tech Stack
 
@@ -49,6 +49,6 @@
 ![Top Langs](https://github-readme-stats-alpha-eight-97.vercel.app/api/top-langs/?username=Garden-Tree&layout=compact&theme=radical&v=1)
 
 ## 🔗 Links
-- 🌐 [Portfolio](https://gardentree-portfolio-garden-trees-projects.vercel.app/) - 制作物や経歴の詳細はこちら
+- 🌐 [Portfolio](https://my-portfolio-woad-delta-oqmxu7s94u.vercel.app/) - 制作物や経歴の詳細はこちら
 - 📝 [ガデログ](https://gadelog.com/) - ガジェットと技術のブログ
 - 🏍️ [Twitter/X](https://twitter.com/Garden__Tree)
